@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
