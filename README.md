@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/0371-sum-of-two-integers) |
+| [3870-count-commas-in-range](https://github.com/jaskaran999/DSA-SOLUTIONS-C-/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
